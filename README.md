@@ -3,8 +3,6 @@
 
 ![AltiumDesigner](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white) ##Altium Designer
 
-![STM32](https://www.st.com/content/dam/ecosystems/stm32-gui/stm32-logo.png) ##STM32
-
 <!--
 **arminhmt/arminhmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
