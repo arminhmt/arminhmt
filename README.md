@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h2 align="left">Soft Skills</h2>
+<h2 align="left">Skills</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
