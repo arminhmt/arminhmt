@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="Matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pPyCharm logo"  />
+  <img width="12" />
+  <img src="https://a11ybadges.com/badge?logo=altiumdesigner" height="40" alt="AltiumDesigner logo"  />
 </div>
 
 ###
