@@ -4,7 +4,10 @@
 
 ###
 
-<h3 align="left">I'm Armin, A passionate Electronics developer. 🔌</h3>
+<h3 align="left">I'm Armin</h3>
+
+###
+<h3 align="left">Embedded Electronics developer. 🔌</h3>
 
 ###
 
